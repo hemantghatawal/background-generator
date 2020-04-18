@@ -1,2 +1,0 @@
-# startup
-The Startup Page
